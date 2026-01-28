@@ -1,5 +1,4 @@
-#👋 Olá, me chamo  
-# Rychard Lucena
+ # Rychard Lucena
 
 **Estudante de Sistemas de Informação - UFPB**
 
