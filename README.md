@@ -1,3 +1,4 @@
+👋 Olá, me chamo  
 # Rychard Lucena
 
 **Estudante de Sistemas de Informação - UFPB**
@@ -7,20 +8,15 @@ Interesse em desenvolvimento de APIs REST, bancos de dados e boas práticas de s
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Stack Principal
 
-**Backend**
-- Java
-- Spring Boot
-- Python
-
-**Banco de Dados**
-- MySQL
-
-**Infra & Ferramentas**
-- Docker
-- Linux
-- Postman
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -49,3 +45,4 @@ Interesse em desenvolvimento de APIs REST, bancos de dados e boas práticas de s
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RychBrend&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
