@@ -1,4 +1,4 @@
-````md
+md
 <h1 align="center">Olá! Eu sou Rychard 👋</h1>
 
 <p align="center">
