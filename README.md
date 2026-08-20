@@ -3,11 +3,8 @@
 
 <!-- TOTODILE ANIMADO -->
 <p align="center">
-  <img
-    src=""<img width="220" height="123" alt="Image" src="https://github.com/user-attachments/assets/b9d7d17c-2d4c-4444-9da7-2b192a4c7137" />""
-    width="650"
-    alt="Totodile cuspindo água"
-  />
+  
+  <img width="220" height="123" alt="Image" src="https://github.com/user-attachments/assets/b9d7d17c-2d4c-4444-9da7-2b192a4c7137" />
 </p>
 
 ---
