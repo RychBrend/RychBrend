@@ -40,12 +40,24 @@
 
 ## 🔥 Atividade no GitHub
 
+
+## 📊 Estatísticas
+
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=RychBrend&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
+    src="https://github-readme-stats-fast.vercel.app/api?username=RychBrend&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"
+    alt="Estatísticas do GitHub"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=RychBrend&theme=github-dark-blue&hide_border=true&locale=pt_BR"
+    alt="Sequência de contribuições"
+  />
+</p>
+
+---
 
 ---
 
