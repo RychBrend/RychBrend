@@ -1,13 +1,5 @@
-md
+
 <h1 align="center">Olá! Eu sou Rychard 👋</h1>
-
-<p align="center">
-  <strong>Desenvolvedor Back-end em formação</strong>
-</p>
-
-<p align="center">
-  Java • Spring Boot • Python • PostgreSQL • Docker
-</p>
 
 <!-- TOTODILE ANIMADO -->
 <p align="center">
@@ -17,22 +9,6 @@ md
     alt="Totodile cuspindo água"
   />
 </p>
-
----
-
-## 👨‍💻 Sobre mim
-
-🎓 Estudante de Sistemas de Informação na UFPB  
-
-☕ Focado em desenvolvimento **Back-end com Java e Spring Boot**
-
-🐍 Também trabalho e estudo **Python**
-
-🗄️ Experiência com bancos de dados relacionais, principalmente **PostgreSQL**
-
-🐳 Estudando ferramentas de infraestrutura como **Docker e Linux**
-
-🚀 Sempre buscando aprender novas tecnologias e construir projetos melhores
 
 ---
 
@@ -64,37 +40,10 @@ md
 
 ---
 
-## 🎯 Atualmente estudando
-
-```text
-☕ Java
-🌱 Spring Boot
-🗄️ PostgreSQL
-🐳 Docker
-🐧 Linux
-🏗️ Arquitetura Back-end
-````
 
 ---
 
-## 🚀 Objetivos
 
-* Aprofundar meus conhecimentos em desenvolvimento Back-end
-* Construir aplicações com Java e Spring Boot
-* Melhorar meus conhecimentos em arquitetura de software
-* Criar projetos que resolvam problemas reais
-* Evoluir constantemente como desenvolvedor
-
----
-
-<p align="center">
-  <i>"Pequenos commits, grandes conquistas."</i>
-</p>
-
-<p align="center">
-  💙
-</p>
-```
 
 
 <!--
