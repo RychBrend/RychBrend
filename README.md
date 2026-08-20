@@ -1,14 +1,15 @@
 
 
 <h1 align="center">Olá! Eu sou Rychard 👋</h1>
-<!-- TOTODILE ANIMADO -->
+
 <p align="center">
   <img
-    width="700"
-    alt="Totodile cuspindo água"
+    width="100%"
+    alt="Totodile"
     src="https://github.com/user-attachments/assets/b9d7d17c-2d4c-4444-9da7-2b192a4c7137"
   />
 </p>
+
 
 ---
 
