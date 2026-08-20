@@ -4,7 +4,7 @@
 <!-- TOTODILE ANIMADO -->
 <p align="center">
   <img
-    src="./assets/totodile-water.gif"
+    src="https://tenor.com/pt-BR/view/totodile-pokemon-gif-5688181"
     width="650"
     alt="Totodile cuspindo água"
   />
